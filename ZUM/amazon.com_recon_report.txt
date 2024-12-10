@@ -1,0 +1,8761 @@
+ _____   _    __  __ 
+|__  /  / \  |  \/  |
+  / /  / _ \ | |\/| |
+ / /_ / ___ \| |  | |
+/____/_/   \_\_|  |_|
+                     
+
+feita por Donovan.Sadon
+Relatório de Recon para: amazon.com
+
+Data: 2024-11-25 06:50:18
+
+Subdomínio: amazon.com inc.
+naga.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sg-console-us-west-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcws.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-eu-integration.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+login.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+sg-console-sa-east-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+devportal-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dataplanmanager-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+authorize.payments-sandbox.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+consoleziggy.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+de-preflight-aw.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+https-sedi-eu-pw.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+catalog.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+aps-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+mediatech-submission.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+payments-de-sandbox.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+source.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ws-eu.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+si-us.developer.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+monitor-api-public-sfo.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cs-ext-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+parker-gateway-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+forums.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+autodiscover.amazon.com
+autodiscover-ext.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+sellercentral.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+images-na.ssl-images-amazon.com
+www.images-na.ssl-images-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mingportal.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+dub-a-orca.amazon.com
+dub-orca.amazon.com
+orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-mls-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+supplierexpress.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-v2-gamma.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+api-cdn.amazon.com
+iba-cdn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: a4k-pre-prod.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+catalog-europe-pilot.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+translation.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cscentral-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+www.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+odcs-na-extern.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+console.aws.amazon.com
+us-west-2.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+glacier-console-eu-west-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mas-ext-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+rcm-cn.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+static-eu.payments-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+de-pre-prod-aw.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+fls-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+monitoring.eu-west-1.amazonaws.com.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+madam.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+developer.payments-sandbox.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-fe.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+w6.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+conversations.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ntdyalf1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+https-sedi-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mt.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+www8.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ecs-mishmish.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+autodiscover.amazon.com
+coho.amazon.com
+dub.email.amazon.com
+dub.oa.amazon.com
+email.amazon.com
+oa.amazon.com
+pek.email.amazon.com
+pek.oa.amazon.com
+sea.email.amazon.com
+sea.oa.amazon.com
+sockeye.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+fcsmmobile.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+sis.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+infra.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+glcs.amazon.com
+glcs-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+punchoutgateway-integration.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+pindorama.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+monitor-api-public-dub.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+glacier-console-us-west-2.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+vs-media-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+rainier-mcms-media-upload-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+gb-console.eu-west-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mads.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+cloudforge-external.lux.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+lookout-service-iad.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+marksandspencer-isa-preview-prod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+localregister-app.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sellercentral.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+coursematerials.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cde-ta-g7g.amazon.com
+cde-ta-g7g.amazon.com.br
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+workdocs.ap-southeast-1.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-client-dev2.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+wellfleet.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+catalog-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+assoc-datafeeds-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+ap-email.amazon.com
+autodiscover.amazon.com
+autodiscover-ext.amazon.com
+ballard.amazon.com
+coho.amazon.com
+dub-email.amazon.com
+eu-email.amazon.com
+pek-email.amazon.com
+sea-email.amazon.com
+ue-email.amazon.com
+uw-email.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+catalog-mapper-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+www7.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+mads.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+ktpx.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cmu-receiver-na.amazon.com
+cmu-receiver-na.amazon.com.br
+cmu-receiver-na.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+snitch-portal.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cookie-monster-console-beta.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: aan.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+device-metrics-us-2.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+credential-locker-service.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+mst-ext.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kdk.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+shm.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-rsm-prod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+assoc-datafeeds-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+pulse.amazon.com
+squawk.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+assoc-df-migration.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mobileappdistribution.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+atv-guava.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+seller-central-jp-pilot.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+www3.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+https-inbound-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+deploy-aas-sfo.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ssl-images.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sea-salmon.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+wiki-acx.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dv-ext.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+hireon.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcws.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+skylight-console-us-west-2.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+logistics.amazon.com
+www.logistics.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+zme-caps.amazon.com
+zme-caps-iad.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+www.amazon.com.br
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+apac.account.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+atv-sr.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+catalog-sc-pilot.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kcp-casc.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+https-basic-sedi-qa.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+aws-messaging.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+developer.payments-sandbox.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+sesblog.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-guava-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+chinook-legacy.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+orca.amazon.com
+test-a-orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+local.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+zme-bulktools.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+translate-acx.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+pek-salmon.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cortana-gateway-gamma.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+api-preprod.amazon.com
+softwareupdates-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+local-mobile.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+whispercast.amazon.com.br
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+tax-exemption.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+console.aws.amazon.com
+resources.console.aws.amazon.com
+us-east-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mas-sdk-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+kindlescout.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+zme-caps-dub.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+worldserver-external.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+s3-console-ap-southeast-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+storeadmin-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: affiliate-program.amazon.com.mx
+afiliados.amazon.com.mx
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+dp-contacts-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kdp-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+corpuschristi.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+assoc-datafeeds-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+snowcrest.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+identity-snds-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cscentral-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sedi.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+rcm-eu.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+console-cs-staging-us-east-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+glcs-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cmu-receiver-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+images-eu.ssl-images-amazon.com
+images-fe.ssl-images-amazon.com
+images-na.ssl-images-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+hyd-b-orca.amazon.com
+orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+transportation.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+payments-jp.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+myi-gui-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kconnect-uk.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sellercentral-japan.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+elbrus-test.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+shelfari.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+foo.ec2-pinotage.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+*.signin.aws.amazon.com
+signin.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+myi-gui-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ets-console-beta.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+iws-froogle-feeds.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+lookout-service-gamma.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+portal.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cloudforge-external-iad.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+images-eu.ssl-images-amazon.com
+www.images-eu.ssl-images-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-v2.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cmu-receiver-fe.amazon.com
+cmu-receiver-fe.amazon.com.au
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+iad-salmon.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+device-messaging-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+hireon.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+vendorcentral.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+storeadmin.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+s1.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+pda-as.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-ext.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+catalog-fe.amazon.com
+gio-catalog-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+www1.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+ws-fe.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ap-northeast-1.console.aws.amazon.com
+console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcws-gamma.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cde-ta-g7g.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cmu-receiver-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+fresh.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+rcm.amazon.com
+rcm-na.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+money-markets-blog.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sesblog.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+transportation-services.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+livingclassics.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+pulse.amazon.com
+squawk.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+aps-fe-master.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+c2c-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+glacier-console-us-east-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dub-salmon.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sg-console-eu-west-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+msh.amazon.com.br
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+www.music-lyrics-service.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+api.amazon.com
+wsync.us-east-1.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cpt-b-orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+zme-caps-pdx.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+match-visualsearch-de.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+quidsi-www.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ws-cn.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+deploy-aas-sin.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agora.aws.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-sr.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+grstaging.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+as.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-mont-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+*.edge-gacd.amazon.com
+edge-gacd.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+catalog-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+cmu-receiver-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+fls-cn.amazon.com
+fls-eu.amazon.com
+fls-fe.amazon.com
+fls-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+robin-svc-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+monitor-api-public-sin.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+smtp-fw-31001.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+grok.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+whispercast.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sg-console-sa-east-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+poweredby.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: aers.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ap-southeast-2.console.aws.amazon.com
+console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+atv-ps-fe.amazon.com
+fals.atv-ps-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: a4k.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+r.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+source.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+t1-completion.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+archie-ops.us-east-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cscentral.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+https-sedi-jp-pw.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+console-cs-integ-us-east-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: adserver.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+road-runner-console-integ.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+capi-fe.ssl-images-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+c2c.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+kdk.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cssmmobile.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+vendorcentral.amazon.com.br
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+ler.amazon.com.br
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+paragon-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+tba-yms-mobile.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+rcm-fe.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+marksandspencer-pca-preview-prod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+bebemsh.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+orca.amazon.com
+sea-c-orca.amazon.com
+sea-orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+glacier-console-ap-southeast-2.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+credential-locker-service.amazon.com
+digprjsurvey.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+cmu-receiver-fe.amazon.com
+cmu-receiver-fe.amazon.com.au
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+catalog-mapper-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+device-metrics-us.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+atv-ps-eu.amazon.com
+fals.atv-ps-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+cssmmobile-gamma.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+wms.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kindle-preview.amazon.com
+kindlepreview.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: advantage.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kuato.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ecommerce.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+pong.amazon.com
+pongpaging-us-west-2.amazon.com
+pong-us-west-2.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: af-mobile-api.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+fls-na.amazon.com
+fls-na.amazon.com.br
+fls-na.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+kdp-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+us-pre-prod-aw.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: aiv-lrc-blr-gamma-qa.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+taxcalculation.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+deploy-aas-dub.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kindle-store-proxy-endpoint.amazon.com
+kindle-store-proxy-endpoint.amazon.com.au
+kindle-store-proxy-endpoint.amazon.com.br
+kindle-store-proxy-endpoint.amazon.com.mx
+kindle-store-proxy-endpoint-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+console.aws.amazon.com
+sa-east-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+catalog-eu.amazon.com
+gio-catalog-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+catalog.amazon.com
+catalog-retail.amazon.com
+catalog-retail.amazon.com.mx
+catalog-sc.amazon.com.mx
+gio-catalog.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+flow-console-us-east-1.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sg-console-ap-southeast-2.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cloudforge-external-nrt.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+sb-folderservice.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+merchant-authorization.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+primenow.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+paragon-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+read.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+catalog-eu.amazon.com
+gio-catalog-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+mas-ssr.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+chat.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dam.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+fls-fe.amazon.com
+fls-fe.amazon.com.au
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+monitor-api-public-pdt.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-rsm-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sedi-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+xml-target.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+es-preprod-aw.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+glacier-console-us-west-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sewalungma.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com
+amazon.com inc.
+amazon.com.mx
+www.amazon.com
+www.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+rainier-mcms-media-upload-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+digital-delivery-na-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+lanternfish.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+payments-jp-sandbox.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+quorus.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-qa-test-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+s3-console-ap-northeast-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+static-na.payments-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+umass.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kindle.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cssmmobile-gamma.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+rio-light.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+paragon-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+bidding-editor.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+sb-shipping.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+orizaba.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+hyd-a-orca.amazon.com
+orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+monitor-api-public-nrt.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-cn.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mws-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+auth-goat.amazon.com
+auth-goat-gamma.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-cn-gamma.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-contacts.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+glacier-console-eu-central-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+aps.amazon.com
+ps-app-us.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+aps-eu-master.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+https-sedi-jp.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+auth-6pm-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mad.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+argileto.amazon.com
+argileto.amazon.com.au
+argileto.amazon.com.br
+argileto.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+spe-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+bookextras.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+p13n-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+s3-console-us-west-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-ext-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mas-sdk-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+capi-cn.ssl-images-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+pek4-wc-vault.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+wms-fe.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+api-cdn.amazon.com
+iba-cdn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mas-sdk.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+catalog-mapper-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+client-log.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: access-alexa-na.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+zme-caps.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ktpx-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atenservice.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+api.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+softwareupdates-preprod.amazon.com
+updates-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+dp-mkm.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+gws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+au-prod-internal.amazon.com
+www.amazon.com.au
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: alas.aws.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+history.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+swvgdtt-gateway-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+www.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mas-ext-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+auth-goat.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+fresh.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+resolutioncenter.payments.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+wms-fe.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+knox.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+fe-pp-aw.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+wormhole-console.us-gov-west-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ws-fe.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+auth-zappos-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+images-eu.ssl-images-amazon.com
+images-fe.ssl-images-amazon.com
+images-na.ssl-images-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ler.amazon.com.br
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sg-console-us-standard.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mas-ssr-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+push.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+authorize.payments.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-bivl-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+s3-console-ap-northeast-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+oa.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+s3-console-ap-southeast-2.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+trinityconsole.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+mas-ssr-eu-ad.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+gamma-as.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+argileto.amazon.com
+argileto.amazon.com.au
+argileto.amazon.com.br
+argileto.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+beta.matterhorn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+swvgdtt-gateway-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+glacier-console-us-west-2.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-v2.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+xdeb-creturn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+match-visualsearch.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+login.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+catalog-retail.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-ps.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+media-service-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+portal.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mst-ext.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+dp-sr-prod-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+forums.developer.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-client-dev1.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+blr1-salmon.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+studios.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+fls-eu.amazon.com
+fls-fe.amazon.com
+fls-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+mas-ssr-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+tote.amazon.com
+totes.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+deploy-aas-nrt.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+maa-a-orca.amazon.com
+orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cloudfront-console-localization-test-prod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+copilot.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+origin-na.ssl-images-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+punchoutgateway.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mas-ext-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-ps-gamma.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+capi-eu.ssl-images-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sg-console-ap-northeast-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+harbor-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sellercentral.pilot.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-ext1-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-qa-test-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-deg-prod-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+eu.account.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+deploy-control.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+messaging-health-us-east-1.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+tech-book-store.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+https-sedi-eu-pw.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-ps-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sedi-api.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sm-apps.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+assoc-datafeeds-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+yukon.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-ext2-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-v2-fe.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sitb-images.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+pts-as2gw-syrah.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+catalog.amazon.com
+catalog-retail.amazon.com
+gio-catalog.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+read.amazon.com.au
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+giveaway.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+rcm.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sb-cmsservice.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+autodiscover.amazon.com
+autodiscover-ext.amazon.com
+ballard.amazon.com
+coho.amazon.com
+kokanee.amazon.com
+sea.email.amazon.com
+sockeye.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+stkservice-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dub-b-orca.amazon.com
+orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+api-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mobile-associates-service.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+swvgdtt-gateway.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sea-c-orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ucdavis.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+us-east-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+console.aws.amazon.com
+sa-east-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+zme-cals.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sea-b-orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+mobileappdistribution.amazon.com
+money-markets-blog.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+wiki-acx.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+grstaging.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ias-b-orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+https-sedi-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+digital-delivery-jp-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+digital-design-bookstore.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+gp.amazon.com
+gp-beta.amazon.com
+gp-gamma.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+dub-a-orca.amazon.com
+orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+artistcentral.amazon.com
+www.artistcentral.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+chum.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+aps-eu-master.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+mws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kindle-images.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+aws-portal.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+www3.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: affiliate-program.amazon.com.br
+amazon.com inc.
+associados.amazon.com.br
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+eu-pp-aw.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+msh.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+eml.us-east-1.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dropship.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+swvgdtt-gateway-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+atv-eu.amazon.com
+atv-ext-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+applab-sdk.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+wireless.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+rexp-auth-proxy.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+writeon-community.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-sr-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+askville.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+todo-ta-g7g-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-gw-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+paragon-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+catalog-mapper-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+localregister.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cde-ta-g7g-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com
+amazon.com.br
+amazon.com inc.
+www.amazon.com
+www.amazon.com.br
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+aps-master.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+kindle-preview.amazon.com
+kindlepreview.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+bluefish.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+vap.amazon.com
+vap.video-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+coho.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-mkm.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cmu-receiver-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+wms.assoc-amazon.com
+wms-na.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+fls-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+merchant-query.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+gamma-as.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+pulse-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+auth-goat-gamma.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kindlecreate.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: alexa.amazon.com
+amazon.com, inc.
+echo.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-v2-fe-gamma.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-v2-gamma.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amarillo.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-contacts-in.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+snitch-portal-us-west-1.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+amp.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-v2-eu-gamma.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+shm.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dataplanmanager-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+test-a-orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+writeon.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com
+amazon.com inc.
+uedata.amazon.com
+www.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+music-xray-service.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+shiptrack-external-security-service-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+rcm-cn.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-gw-na.amazon.com
+dp-gw-na-js.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+firs-ta-g7g-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+vendorcentral.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+klaatu.us-east-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+images-cn.ssl-images-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+localregister.amazon.com
+www.localregister.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+glacier-console-eu-west-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+s3-console-sa-east-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+*.signin.aws.amazon.com
+signin.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com
+amazon.com, inc.
+uedata.amazon.com
+us.amazon.com
+www.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com
+amazon.com, inc.
+amazon.com.mx
+www.amazon.com
+www.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: aiv-clients-apps.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+assoc-datafeeds-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+support-preview.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+mas-sdk.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+captcha-proxy.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+localregister-app.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+read.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ams.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+uk-preflight-aw.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+matterhorn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-ps-bf-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cmu-receiver-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+shippingpolicy-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+astore.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+games.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+tech-book-store.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+device-metrics-us-ud.amazon.com
+dp-mont-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+s3-console-us-west-2.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+consoleriko.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: aiv-lrc-blr-gamma.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+assoc-datafeeds-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+https-inbound-eu-implementation.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+eu-central-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+transportation.amazon.com
+transportation.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ecs-wonderbod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+smile.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sitb-images-cn.amazon.com
+sitb-images-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sewalungma-test.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-delta.amazon.com
+atv-ext.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+swvgdtt-gateway.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+catalog-fe-pilot.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+rcm.amazon.com
+rcm-na.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+secure.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+customer-certificates.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+neomorphus.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cde-ta-g7g-preprod.amazon.com
+cde-ta-g7g-preprod.amazon.com.br
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+pitangui.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+capistrano-preview.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+digital-delivery-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+device-messaging-na-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+g2.amazon.com
+g2-beta.amazon.com
+g2-gamma.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-fe-gamma.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+wms-eu.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+softwareupdates.amazon.com
+updates.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+myi-gui.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+www2.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: advertise.amazon.com
+advertising.amazon.com
+advertize.amazon.com
+advertizing.amazon.com
+adwords.amazon.com
+amazon.com, inc.
+marketing.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sellerservices.amazon.com
+services.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+wms-cn.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-ps-eu-dev.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+bookextras.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+g1.amazon.com
+g1-beta.amazon.com
+g1-gamma.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+isapca-preview-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dub-a-orca.amazon.com
+orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+rainier-mcms-media-upload-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+s3-console-us-west-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+gamecircle-developer-sandbox.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+iad-b-orca.amazon.com
+orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+www.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+monitor-api-public-bjs.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kumamoto.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+ap-email.amazon.com
+autodiscover.amazon.com
+ballard.amazon.com
+dub-email.amazon.com
+eu-email.amazon.com
+kokanee.amazon.com
+pek-email.amazon.com
+sea-email.amazon.com
+sockeye.amazon.com
+ue-email.amazon.com
+uw-email.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-delta.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+outback-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+api-sandbox.amazon.com
+api.sandbox.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dilithium.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+kindle-app-service.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cmu-receiver-na.amazon.com
+cmu-receiver-na.amazon.com.br
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+na-pp-aw.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-reg-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+warpspeed.us-east-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+digital-delivery-jp.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-deg-preprod-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+madam-awcm.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+blogs.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+sg-console-eu-central-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+vendorcentral.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-contacts-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+aws-messaging-test.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+gb-console.us-west-2.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sriracha.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+warpspeed.us-gov-west-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-gw-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+cloudforge-external-syd.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+www4.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+rcm-eu.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+webstore-config-gateway.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+associates.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+wms.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-ext-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+monitor-api-public-iad.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: a4k-one-box.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+games.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+wms-eu.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+isapca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kindle-store-proxy-endpoint.amazon.com
+kindle-store-proxy-endpoint.amazon.com.br
+kindle-store-proxy-endpoint-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kconnect-us.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+warpspeed.eu-west-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+apub-blog.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+textpayme.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+mas-ssr-fe-ad.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+gru-a-orca.amazon.com
+orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+stingray-dub.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+eu-west-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cde-ta-g7g-preprod.amazon.com
+cde-ta-g7g-preprod.amazon.com.au
+cde-ta-g7g-preprod.amazon.com.br
+cde-ta-g7g-preprod.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+atv-delta.amazon.com
+atv-ext.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+www14.amazon.com.br
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+www14.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+skylight-us-east-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+logan.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+media-service-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+catalog-cn.amazon.com
+gio-catalog-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+amp.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+match-visualsearch.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+digital-music-delivery-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+c2c-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+zme-caps.amazon.com
+zme-caps-iad.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+aws-portal.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+aps-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+series-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ias-a-orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+elbrus.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+devicebackupandrestore.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+outback-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+completion.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+identity-snds.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-contacts-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+det-ta-g7g.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+match-visualsearch-jp.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kindlepreviewservice.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+db-preview.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+knox-gamma.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+appstore-sdk.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+payments-de.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dtp.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+ams.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+snitch-portal-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-v2-eu-gamma.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+monitor-api-public-gru.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+pwrs-mpconfig.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-delta2.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+gamestudios.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+org.amazon.com
+orgcentral.amazon.com
+orgs.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+devportal.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+b2b.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+deploy-aas-gru.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+https-sedi-na-pw.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+match-visualsearch-de.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+msh-tablet.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+identity.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+arcus.us-west-2.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+appdevblog.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-guava.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+monitor-api-public-fra.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cscentral-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+lookout-service-bjs-gamma.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+glacier-console-us-west-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+xml.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+console.aws.amazon.com
+us-west-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+eu.account.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+rexp-auth-proxy.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+payeecentral.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-v2-eu.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+guipitan.amazon.com
+pitangui.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+console-cs-us-east-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+timber-po.us-east-1.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amapedia.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-gamma-cn.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-dev-test.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+us-west-2.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+artistcentral.amazon.com
+www.artistcentral.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+www1.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com.au
+amazon.com, inc.
+www.amazon.com.au
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-fe.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+console.aws.amazon.com
+resources.console.aws.amazon.com
+us-west-2.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+c2c-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+ws-cn.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+atv-ext-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+msh.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sellercentral-europe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+t1-completion.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+mas-ext-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+monitor-api-public-sea.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-eu.amazon.com
+atv-ext-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+https-inbound.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+ws-eu.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+warpspeed.us-west-2.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+cde-ta-g7g.amazon.com
+cde-ta-g7g.amazon.com.au
+cde-ta-g7g.amazon.com.br
+cde-ta-g7g.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+apn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+diablo.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: alx-inbound-eu.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+fls-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+madam.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+eventlog-visualsearch.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sweepstakes.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+https-sedi-devo.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+translate-acx.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+iad-a-orca.amazon.com
+orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+notifications.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+website-g7g.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+aps.amazon.com
+ps-app-us.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+msh.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+rcm-fe.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+hyd1-salmon.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+oscarbeta.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+s3-console-us-standard.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+glacier-console-ap-northeast-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kindle-periodicals-cs.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+kca.amazon.com
+kcw-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+sockeye.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+vap.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+local-mobile.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-ps-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sea-a-orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+snowbank.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+squash-console-gamma.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+widgets.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+device-metrics-us-2.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+console.aws.amazon.com
+eu-west-1.console.aws.amazon.com
+us-east-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+aps.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+monitor-api-public-bjs-in-pdx.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+gearshop.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+aps-master.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+whispercast.amazon.com.br
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cloudforge-external-pdt.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+funfacts.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+hh2.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ebfs-proxy.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+warpspeed.ap-southeast-2.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+kca-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+gru-b-orca.amazon.com
+orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: affiliate-program.amazon.com.br
+amazon.com, inc.
+associados.amazon.com.br
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+device-messaging-na-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kindleworlds-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ws.amazon.com
+ws-na.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cc.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+kdp.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+digprjsurvey.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+storedesignproxy-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ddee.amazon.com
+ddee.amazon.com.au
+ddee.amazon.com.br
+ddee.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+s3-console-eu-central-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+charlie-console-preview-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+images-eu.ssl-images-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cloudforge-external-sin.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cde-ta-g7g-newstack-preprod.amazon.com
+cde-ta-g7g-preprod.amazon.com
+cde-ta-g7g-preprod.amazon.com.au
+cde-ta-g7g-preprod.amazon.com.br
+cde-ta-g7g-preprod.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+org.amazon.com
+orgcentral.amazon.com
+orgs.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+mas-ssr-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+local.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcws-gamma.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-gamma.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+wms-cn.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+applab-sdk.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com
+amazon.com.br
+amazon.com, inc.
+www.amazon.com
+www.amazon.com.br
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+writeon.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+orca.amazon.com
+pek-b-orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+ap-southeast-1.console.aws.amazon.com
+console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+glacier-console-us-east-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+us-preflight-aw.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+monitor-api-public-pdx.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+photoagent.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-v2-eu.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+developer.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+smile.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+kindle.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+squash.us-east-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mediatech-submission.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+osmosis.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+deploy-aas-sea.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+worldserver-external.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+ws.amazon.com
+ws.assoc-amazon.com
+ws-na.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+s3-console-ap-southeast-2.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+monitor-api-public-titan.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+screaming-eagles-mturk-server.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+transportation-services-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+vendorcentral.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+leer.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+fls-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mas-ssr.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+menagerie.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ap-southeast-1.console.aws.amazon.com
+console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+mas-ext-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com
+amazon.com, inc.
+uedata.amazon.com
+www.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+images-fe.ssl-images-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+atv-guava-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+paragon-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+deploy-aas-syd.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+catalog-cn.amazon.com
+gio-catalog-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+c2c-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+fun-facts.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-mkm-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+prime.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+comet.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+gru-a-orca.amazon.com
+orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cs-ext-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+digital-delivery-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+aws-bcs-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-v2-fe-gamma.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sg-console-ap-southeast-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: aiv-eu-blr-dev.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+wormhole.us-east-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+kcp-casc.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cpt-a-orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+tba-yms-mobile-master.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+webservices.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+forums.developer.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dcape-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+smtp-fw-33001.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+purdue.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+eagle-console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+poweredby.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+consoleziggy.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+chicago.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+kep.amazon.com
+kep.amazon.com.br
+kep.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+wms.assoc-amazon.com
+wms-na.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cloudforge-external-pdx.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+community.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+deploy-aas-iad.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+selection.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+www.sourcingamazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+digital-music-origin-test-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+seller-central-eu-pilot.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kindle-periodicals-cs-sandbox.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+kindleworlds.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mas-ssr-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: aiv-lrc-blr-gamma.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agora.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+media-service-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+money-markets-blog.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+kep.amazon.com
+kep.amazon.com.au
+kep.amazon.com.br
+kep.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cde-ta-g7g.amazon.com
+cde-ta-g7g.amazon.com.au
+cde-ta-g7g.amazon.com.br
+cde-ta-g7g.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+dp-contacts.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+eventlog-visualsearch.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+static-na.payments-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+aws-bcs-gamma-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+s3-console-us-standard.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sockeye.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+api.amazon.com
+devicemessaging.us-east-1.amazon.com
+wsync.us-east-1.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+jp-pre-prod-aw.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+merchant-api.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-v2-fe.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+writeon-community.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+s3-console-sa-east-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sis.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kathak.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cde-cn-test.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+marksandspencer-pca-preview.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kindle-app-service.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+elasticloadbalancing.ap-southeast-2.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+jasper.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-ps.amazon.com
+fals.atv-ps.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+skylight-us-west-2.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+digprjsurvey.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+www.assoc-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+api.amazon.com
+devicemessaging.us-east-1.amazon.com
+softwareupdates.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+kindle.amazon.com
+kindle.amazon.com.au
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+elpaso.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-external-proxy-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+datacenter-mobility.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kdp.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+digital-design-bookstore.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kindlepublishing.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+chinook.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+neomorphus.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+appstore-sdk.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+outback-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+backgroundcheckvendorgateway-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-br-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-eu.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+devportal-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dfba.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: ags-ext.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+monitor-api-public-syd.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+payments-uk.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+series-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+pinochle.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+storefront.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+stkservice.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+ap-southeast-2.console.aws.amazon.com
+console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-eu-dev.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+primenow-us.amazon.com
+urmp-1-prod.amazon.com
+urmp-2-prod.amazon.com
+urmp-3-prod.amazon.com
+urmp-4-prod.amazon.com
+urmp-5-prod.amazon.com
+urmp-7-prod.amazon.com
+urmp-prod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+digital-music-delivery-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+wireless.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mobileappdistribution.amazon.com
+money-markets-blog.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+plm.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+plm.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+gru-b-orca.amazon.com
+orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+aps-fe-master.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kconnect-preprod-uk.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cs-ext.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+jp-preflight-aw.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+mas-ext.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+cde-ta-g7g-newstack-preprod.amazon.com
+cde-ta-g7g-preprod.amazon.com
+cde-ta-g7g-preprod.amazon.com.au
+cde-ta-g7g-preprod.amazon.com.br
+cde-ta-g7g-preprod.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+images-na.ssl-images-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+vendorcentral.amazon.com.br
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+eiportal.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+catalog-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dv-msg.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+blue-ash.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+supplierexpress.amazon.com
+vendorexpress.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+s3-console-ap-southeast-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: affiliate-program.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+sedi.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+digital-delivery-eu-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+webstoreblog.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+catalog-fe.amazon.com
+gio-catalog-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+gb-console.us-east-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-demo.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+origin-na.payments-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+h3j3-g7g.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+assoc-datafeeds-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-guava-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+aten.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+us-west-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+policysim.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+aps-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+images-fe.ssl-images-amazon.com
+www.images-fe.ssl-images-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+device-metrics-us.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+payments-sandbox.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: advantage.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+askville.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+payments.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+urmp-1-prod.amazon.com
+urmp-2-prod.amazon.com
+urmp-3-prod.amazon.com
+urmp-4-prod.amazon.com
+urmp-5-prod.amazon.com
+urmp-7-prod.amazon.com
+urmp-prod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+uts.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+uk-pre-prod-aw.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+stingray-iad.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amarillo.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-external-proxy-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: 6pm.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-rdm-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+iad-a-orca.amazon.com
+iad-orca.amazon.com
+orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+dcape-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sg-console-us-west-2.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+leer.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+catalog.amazon.com
+catalog-retail.amazon.com
+gio-catalog.amazon.com
+selection.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-contacts-jp.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+pulse-fe.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+policysim.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+au-prod-internal.amazon.com
+www.amazon.com.au
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+webservices.amazon.com
+webservices.amazon.com.br
+webservices.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+authorcentral.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+static-eu.payments-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+api.amazon.com
+softwareupdates.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ktpx.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+origin-fe.payments-amazon.com
+static-fe.payments-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+amazonpayments.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: agcod-eu-gamma.amazon.com
+amazon.com inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+warpspeed.ap-northeast-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+payments-uk-sandbox.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+charlie-console-preview.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+c2c.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+sellercentral.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+stkservice.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-deg-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cloudforge-external-sfo.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+match-visualsearch-uk.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cloudforge-external-syd.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+console.aws.amazon.com
+eu-west-1.console.aws.amazon.com
+resources.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+identity-snds.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+mas-ext.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+whispercast.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+sms-in.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+monitor-api-public-pek.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+pda-bes.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+https-sedi-qa.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kindleworlds.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+media-service-cn.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+images-cn.ssl-images-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+firs-ta-g7g.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+rainier-mcms-media-upload.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+squash-gamma.us-east-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+fls-fe.amazon.com
+fls-fe.amazon.com.au
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+reading.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+sea-d-orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+aps-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+apub-blog.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+vendorcentral.amazon.com.au
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+artistcentral.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+dp-sr-prod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+si-cn.developer.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+fromage.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+endeavour.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+echo.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+webservices.amazon.com
+webservices.amazon.com.br
+webservices.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: affiliate-program.amazon.com
+amazon.com inc.
+associates.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+docs.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+todo-ta-g7g.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+odessa.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cortana-gateway.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+p13n-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+zappos.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+ap-northeast-1.console.aws.amazon.com
+console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cloudforge-external-gru.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kcw-preprod.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+atv-delta2.amazon.com
+atv-qa-test.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kindle-store-proxy-au.amazon.com
+kindle-store-proxy-be.amazon.com
+kindle-store-proxy-br.amazon.com
+kindle-store-proxy-ca.amazon.com
+kindle-store-proxy-cn.amazon.com
+kindle-store-proxy-de.amazon.com
+kindle-store-proxy-dk.amazon.com
+kindle-store-proxy-endpoint-na.amazon.com
+kindle-store-proxy-es.amazon.com
+kindle-store-proxy-fr.amazon.com
+kindle-store-proxy-gb.amazon.com
+kindle-store-proxy-in.amazon.com
+kindle-store-proxy-it.amazon.com
+kindle-store-proxy-jp.amazon.com
+kindle-store-proxy-kr.amazon.com
+kindle-store-proxy-mx.amazon.com
+kindle-store-proxy-nl.amazon.com
+kindle-store-proxy-no.amazon.com
+kindle-store-proxy-ru.amazon.com
+kindle-store-proxy-se.amazon.com
+kindle-store-proxy-tw.amazon.com
+kindle-store-proxy-us.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+codepipeline-preview-console.us-east-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+test-logan.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+skylight-console-us-east-1.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: a4k.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+cssmmobile.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+www2.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+weakfish.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+device-messaging-na.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+orizaba-test.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+ntdyalf2.us-east-1.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+s3-console-eu-west-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+kconnect-svc.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+devicemessaging.us-east-1.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+snitch-portal-ap-southeast-1.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+razorbill-preview-console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+cloudforge-external-dub.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+completion.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+fls-na.amazon.com
+fls-na.amazon.com.br
+fls-na.amazon.com.mx
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+api-sandbox.amazon.com
+api.sandbox.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: ags-ext.amazon.com
+amazon.com, inc.
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+orca.amazon.com
+pek-a-orca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+lookout-parcel-service-gamma-rt.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+glacier-console-ap-northeast-1.console.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+https-basic-sedi-devo.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+capi-na.ssl-images-amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+kca.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+read.amazon.com.au
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+kindleworlds-eu.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com inc.
+blogs.aws.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+cc.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não
+
+Subdomínio: amazon.com, inc.
+kindlepreviewservice.amazon.com
+Status Code: None
+Portas Abertas: 
+Arquivos JS: 
+Arquivos JSON: 
+Vulnerável a XSS: Não

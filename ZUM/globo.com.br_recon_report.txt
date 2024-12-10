@@ -1,0 +1,94 @@
+
+     __     __
+    /  \~~~/  \
+  ,----(     ..)
+ /      \__     )
+|     __.-'|    \
+ \~~~-_____/   / 
+  \ \      /  /
+
+ ______   _ __  __ 
+|__  / | | |  \/  |
+  / /| | | | |\/| |
+ / /_| |_| | |  | |
+/____|\___/|_|  |_|
+                   
+
+Relatório de Recon para: globo.com.br
+
+Data: 2024-12-05 11:33:16
+
+Subdomínio: odds-api.globo.com.br
+Status Code: 404
+Vulnerável a XSS: Não
+
+Subdomínio: autodiscover.gglobo.com.br
+autodiscover.globo.com.br
+webmail.orgglobo.com.br
+Status Code: None
+Vulnerável a XSS: Não
+
+Subdomínio: shoppable-api.globo.com.br
+Status Code: 200
+Vulnerável a XSS: Não
+
+Subdomínio: connector.globo.com.br
+Status Code: None
+Vulnerável a XSS: Não
+
+Subdomínio: tasktracking.globo.com.br
+Status Code: None
+Vulnerável a XSS: Não
+
+Subdomínio: grupoglobo@globo.com.br
+Status Code: 200
+Vulnerável a XSS: Não
+
+Subdomínio: sma.globo.com.br
+Status Code: None
+Vulnerável a XSS: Não
+
+Subdomínio: autodiscover.globo.com.br
+webmail.orgglobo.com.br
+Status Code: None
+Vulnerável a XSS: Não
+
+Subdomínio: proxysip.globo.com.br
+Status Code: None
+Vulnerável a XSS: Não
+
+Subdomínio: sip.globo.com.br
+Status Code: None
+Vulnerável a XSS: Não
+
+Subdomínio: globoventures.globo.com.br
+Status Code: None
+Vulnerável a XSS: Não
+
+Subdomínio: www.mercado-bbb.globo.com.br
+Status Code: None
+Vulnerável a XSS: Não
+
+Subdomínio: painelalocacao.globo.com.br
+Status Code: None
+Vulnerável a XSS: Não
+
+Subdomínio: tasktracking-auth.globo.com.br
+Status Code: None
+Vulnerável a XSS: Não
+
+Subdomínio: globoqr.globo.com.br
+Status Code: 404
+Vulnerável a XSS: Não
+
+Subdomínio: globo-odds.globo.com.br
+Status Code: None
+Vulnerável a XSS: Não
+
+Subdomínio: extweb.globo.com.br
+lyncdiscover.globo.com.br
+lync.globo.com.br
+sip.globo.com.br
+webconf.globo.com.br
+Status Code: None
+Vulnerável a XSS: Não
